@@ -65,4 +65,3 @@ function rotateMatrix() {
    }
 document.querySelector('[type=button]').addEventListener('click', rotateMatrix);
 
-
